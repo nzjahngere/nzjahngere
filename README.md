@@ -127,9 +127,10 @@ I believe in **shift-left testing**, **continuous integration**, and building **
 - :handshake: **Collaboration**: Close partnership with development teams
 - :books: **Knowledge Sharing**: Mentoring and documentation
 ---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square" alt="Profile Views" />
-  **"Building quality into software, one test at a time"** :rocket:
+  <img src="https://komarev.com/ghpvc/?username=nzjahngere&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <p><strong>"Building quality into software, one test at a time"</strong> 🚀</p>
 </div>
 
 <sub>Built with ❤️ by Nazish Jehangir</sub>
