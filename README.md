@@ -41,8 +41,8 @@
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 ### Programming Languages
-![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=css&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
