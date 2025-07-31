@@ -61,12 +61,13 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
-### 🎯 Specializations
-![API Testing](https://img.shields.io/badge/API-Testing-blue?style=for-the-badge)
-![UI Automation](https://img.shields.io/badge/UI-Automation-success?style=for-the-badge)
-![Performance Testing](https://img.shields.io/badge/Performance-Testing-important?style=for-the-badge)
-![Security Testing](https://img.shields.io/badge/Security-Testing-informational?style=for-the-badge)
-![Database Testing](https://img.shields.io/badge/Database-Testing-lightgrey?style=for-the-badge)
+### Testing Specializations
+- :link: **API Testing**: REST, GraphQL, SOAP services
+- :desktop_computer: **UI Automation**: Cross-browser, responsive testing
+- :iphone: **Mobile Testing**: Android & iOS native/hybrid apps
+- :zap: **Performance Testing**: Load, stress, and volume testing
+- :lock: **Security Testing**: Basic vulnerability assessment
+- :file_cabinet: **Database Testing**: SQL validation and data integrity
 
 ---
 
