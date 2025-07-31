@@ -71,18 +71,13 @@
 
 ---
 
-## 📊 GitHub Stats & Calendar
-
+## :bar_chart: GitHub Statistics
 <div align="center">
-  <!-- Overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nzjahngere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nazish’s GitHub Stats" height="150"/>
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzjahngere&theme=tokyonight" alt="Nazish’s GitHub Streak" height="150"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
 <div align="center">
-  <!-- Contribution calendar -->
-  <img src="https://github-readme-calendar.vercel.app/api?username=nzjahngere&theme=tokyonight" alt="Nazish’s Contribution Calendar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 ---
