@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?logo=netlify" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1IebUBm9mfITHgk3Qwecbet8g76j9bLTE/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1kOhZXXz_0qWeXt_RCkHTipv1yWFYbops/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader" alt="Resume"/>
   </a>
   &nbsp;
@@ -38,10 +38,10 @@
 
 | Category                  | Tools & Technologies                                          |
 |---------------------------|---------------------------------------------------------------|
-| **Languages**             | Java, JavaScript, SQL, HTML, CSS, Python                     |
+| **Languages**             | Java, JavaScript, SQL, HTML, CSS                              |
 | **Automation & Testing**  | Selenium, Cypress, TestNG, JMeter, Postman, Burp Suite       |
 | **Frameworks & Libraries**| Cucumber, Page Object Model                                   |
-| **CI/CD & Build Tools**   | Maven, Jenkins, GitHub Actions, Git                          |
+| **CI/CD & Build Tools**   | Maven, GitHub Actions, Git                                    |
 | **Soft Skills**           | Attention to Detail, Teamwork, Problem Solving, Communication |
 | **Languages Spoken**      | English, Hindi                                               |
 
@@ -57,12 +57,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Calendar
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nzjahngere&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzjahngere&theme=tokyonight" height="150" alt="Streak Stats" />
+  <!-- Overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nzjahngere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nazish’s GitHub Stats" height="150"/>
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nzjahngere&theme=tokyonight" alt="Nazish’s GitHub Streak" height="150"/>
+</div>
+
+<div align="center">
+  <!-- Contribution calendar -->
+  <img src="https://github-readme-calendar.vercel.app/api?username=nzjahngere&theme=tokyonight" alt="Nazish’s Contribution Calendar" />
 </div>
 
 ---
