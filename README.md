@@ -45,6 +45,7 @@
 ![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=css&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=sql&logoColor=black)
 
 ### Build Tools & CI/CD
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
