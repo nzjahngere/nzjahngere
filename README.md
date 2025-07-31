@@ -86,8 +86,7 @@
 ### ⚔️ [The Exception Hunters](https://github.com/nzjahngere/009_Exception_Hunters)  
 **Modular Selenium & Cucumber framework with HTML reporting**  
 - **Tech Stack**: Java · Selenium · Cucumber · Maven  
-- **Features**: Modular POM design, robust exception handling, customizable HTML reports  
-
+- **Features**: Modular POM design
 ---
 
 ## :bar_chart: GitHub Statistics
