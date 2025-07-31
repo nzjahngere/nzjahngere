@@ -34,30 +34,39 @@
 
 ---
 
-### Testing Frameworks & Tools
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
-![Rest Assured](https://img.shields.io/badge/Rest_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
+## 🔧 Tech Stack & Tools
 
-### Programming Languages
-![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=css&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=sql&logoColor=black)
+### 🖥️ Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-### Build Tools & CI/CD
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### 🧪 Automation & Testing
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?logo=testng&logoColor=white&style=for-the-badge)
+![Rest_Assured](https://img.shields.io/badge/Rest_Assured-4CAF50?logo=rest-assured&logoColor=white&style=for-the-badge)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1E2021?logo=portswigger&logoColor=white&style=for-the-badge)
 
-### Testing Specializations
-- :link: **API Testing**: REST, GraphQL, SOAP services
-- :desktop_computer: **UI Automation**: Cross-browser, responsive testing
-- :zap: **Performance Testing**: Load, stress, and volume testing
-- :lock: **Security Testing**: Basic vulnerability assessment
-- :file_cabinet: **Database Testing**: SQL validation and data integrity
+### 🧰 Frameworks & Libraries
+![Cucumber](https://img.shields.io/badge/Cucumber-7BA829?logo=cucumber&logoColor=white&style=for-the-badge)
+![POM](https://img.shields.io/badge/Page_Object_Model-333333?logo=github&logoColor=white&style=for-the-badge)
+
+### ⚙️ CI/CD & Build
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+### 🎯 Specializations
+![API Testing](https://img.shields.io/badge/API-Testing-blue?style=for-the-badge)
+![UI Automation](https://img.shields.io/badge/UI-Automation-success?style=for-the-badge)
+![Performance Testing](https://img.shields.io/badge/Performance-Testing-important?style=for-the-badge)
+![Security Testing](https://img.shields.io/badge/Security-Testing-informational?style=for-the-badge)
+![Database Testing](https://img.shields.io/badge/Database-Testing-lightgrey?style=for-the-badge)
 
 ---
 
