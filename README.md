@@ -71,6 +71,28 @@
 
 ---
 
+## :trophy: Featured Projects
+### :link: [API Automation Framework](https://github.com/yourusername/api-automation-framework)
+**Comprehensive REST API testing suite with data-driven capabilities**
+- **Tech Stack**: Java, RestAssured, TestNG, Maven, Jenkins
+- **Features**: Multi-environment support, detailed reporting, CI/CD integration
+- **Testing Coverage**: 50+ API endpoints with 200+ test scenarios
+### :desktop_computer: [Selenium UI Test Suite](https://github.com/yourusername/selenium-ui-automation)
+**Page Object Model based web automation framework**
+- **Tech Stack**: Java, Selenium WebDriver, TestNG, Maven
+- **Features**: Cross-browser testing, parallel execution, screenshot capture
+- **Coverage**: E-commerce application with complete user journey testing
+### :iphone: [Mobile Testing Framework](https://github.com/yourusername/mobile-automation-appium)
+**Android & iOS mobile application testing solution**
+- **Tech Stack**: Java, Appium, TestNG, Maven
+- **Features**: Real device & emulator support, gesture handling
+- **Scope**: Native and hybrid mobile app automation
+### :zap: [Performance Testing Suite](https://github.com/yourusername/jmeter-performance-tests)
+**Load and performance testing implementation**
+- **Tech Stack**: JMeter, Jenkins, Grafana
+- **Features**: Load testing scripts, performance monitoring, reporting
+- **Metrics**: Response time analysis, throughput measurement
+
 ## 📂 Featured Projects
 
 | Project                     | Description                                                               | Tech & Links                                                                                           |
