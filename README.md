@@ -71,35 +71,22 @@
 
 ---
 
-## :trophy: Featured Projects
-### :link: [API Automation Framework](https://github.com/yourusername/api-automation-framework)
-**Comprehensive REST API testing suite with data-driven capabilities**
-- **Tech Stack**: Java, RestAssured, TestNG, Maven, Jenkins
-- **Features**: Multi-environment support, detailed reporting, CI/CD integration
-- **Testing Coverage**: 50+ API endpoints with 200+ test scenarios
-### :desktop_computer: [Selenium UI Test Suite](https://github.com/yourusername/selenium-ui-automation)
-**Page Object Model based web automation framework**
-- **Tech Stack**: Java, Selenium WebDriver, TestNG, Maven
-- **Features**: Cross-browser testing, parallel execution, screenshot capture
-- **Coverage**: E-commerce application with complete user journey testing
-### :iphone: [Mobile Testing Framework](https://github.com/yourusername/mobile-automation-appium)
-**Android & iOS mobile application testing solution**
-- **Tech Stack**: Java, Appium, TestNG, Maven
-- **Features**: Real device & emulator support, gesture handling
-- **Scope**: Native and hybrid mobile app automation
-### :zap: [Performance Testing Suite](https://github.com/yourusername/jmeter-performance-tests)
-**Load and performance testing implementation**
-- **Tech Stack**: JMeter, Jenkins, Grafana
-- **Features**: Load testing scripts, performance monitoring, reporting
-- **Metrics**: Response time analysis, throughput measurement
+## 🏆 Featured Projects
 
-## 📂 Featured Projects
+### 🔗 [The Sentinel Stack](https://github.com/nzjahngere/0019.The-Sentinel-Stack)  
+**E2E test framework for StyleMate e-commerce platform**  
+- **Tech Stack**: Java · Selenium · Cucumber · TestNG · Maven  
+- **Features**: End-to-end checkout flows, data-driven test suites, HTML reporting  
 
-| Project                     | Description                                                               | Tech & Links                                                                                           |
-|-----------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| **The Sentinel Stack**      | E2E test framework for StyleMate e-commerce platform                     | Java · Selenium · Cucumber · TestNG · Maven<br>🔗 [Repo](https://github.com/nzjahngere/0019.The-Sentinel-Stack) |
-| **The Test Forge**          | UI automation suite for Rakuten website using Cypress & POM               | JavaScript · Cypress · POM · Mocha<br>🔗 [Repo](https://github.com/nzjahngere/006-Test-Forge)           |
-| **The Exception Hunters**   | Selenium & Cucumber suite with modular POM & HTML reporting               | Java · Selenium · Cucumber · Maven<br>🔗 [Repo](https://github.com/nzjahngere/009_Exception_Hunters)     |
+### 🖥️ [The Test Forge](https://github.com/nzjahngere/006-Test-Forge)  
+**UI automation suite for Rakuten website using Cypress & POM**  
+- **Tech Stack**: JavaScript · Cypress · Page Object Model · Mocha  
+- **Features**: Cross-browser parallel execution, screenshot capture, detailed logs  
+
+### ⚔️ [The Exception Hunters](https://github.com/nzjahngere/009_Exception_Hunters)  
+**Modular Selenium & Cucumber framework with HTML reporting**  
+- **Tech Stack**: Java · Selenium · Cucumber · Maven  
+- **Features**: Modular POM design, robust exception handling, customizable HTML reports  
 
 ---
 
