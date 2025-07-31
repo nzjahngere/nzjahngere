@@ -37,20 +37,20 @@
 ## 🔧 Tech Stack & Tools
 
 ### 🖥️ Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ### 🧪 Automation & Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?logo=testng&logoColor=white&style=for-the-badge)
-![Rest_Assured](https://img.shields.io/badge/Rest_Assured-4CAF50?logo=rest-assured&logoColor=white&style=for-the-badge)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-1E2021?logo=portswigger&logoColor=white&style=for-the-badge)
+![Rest_Assured](https://img.shields.io/badge/Rest_Assured-4CAF50?logo=rest-assured&logoColor=white&style=for-the-badge)
 
 ### 🧰 Frameworks & Libraries
 ![Cucumber](https://img.shields.io/badge/Cucumber-7BA829?logo=cucumber&logoColor=white&style=for-the-badge)
