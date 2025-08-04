@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?logo=netlify" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1kOhZXXz_0qWeXt_RCkHTipv1yWFYbops/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1nC0X2o4m6OCmQGPFBv7YG_T7rgWIz3y_/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?logo=adobeacrobatreader" alt="Resume"/>
   </a>
   &nbsp;
