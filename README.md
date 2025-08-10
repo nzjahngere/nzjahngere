@@ -64,7 +64,6 @@
 ### Testing Specializations
 - :link: **API Testing**: REST, GraphQL, SOAP services
 - :desktop_computer: **UI Automation**: Cross-browser, responsive testing
-- :iphone: **Mobile Testing**: Android & iOS native/hybrid apps
 - :zap: **Performance Testing**: Load, stress, and volume testing
 - :lock: **Security Testing**: Basic vulnerability assessment
 - :file_cabinet: **Database Testing**: SQL validation and data integrity
