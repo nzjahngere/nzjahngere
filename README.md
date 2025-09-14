@@ -1,10 +1,8 @@
 <!-- HERO & ABOUT ME -->
 # Hi there! 👋 I’m **Nazish Jehangir**  
-<div>
   <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=SDET;QA+Engineer;Web+Engineer;Full+Stack+Developer;Songwriter;Continuous+Learner" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software Developer+Engineer+in+Test;QA+Engineer;Web+Engineer;Full+Stack+Developer;Songwriter;Continuous+Learner" alt="Typing SVG">
 </p>
-</div>
 
 > Results-driven SDET skilled in building robust test frameworks, API validation, and manual testing.  
 > Proven ability to collaborate with cross-functional teams to deliver high-quality software.
