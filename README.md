@@ -126,46 +126,68 @@ flowchart TD
 
 ---
 
-## 🏗️ Featured Projects
-
 <div align="left">
 
-| 🛡️ **The Sentinel Stack** | 🔥 **The Test Forge** | 🕵️ **The Exception Hunters** |
-|:-------------------------:|:---------------------:|:-----------------------------:|
-| E2E Selenium & Java Framework | Cypress & POM Framework | Selenium, Cucumber & BDD Suite |
-| `>85% test coverage` | `30% faster execution` | `Cross-browser testing` |
-| Rakuten Website Automation | Data-Driven Testing | Complex User Flows |
+## 🚀 PROJECT SHOWCASE MATRIX
+
+<table>
+<tr>
+<td align="left" width="33%">
+
+### 🛡️ THE SENTINEL STACK
+**E2E Selenium Framework**
+```
+🎯 Target: Rakuten Website
+⚡ Tech: Selenium + Java + TestNG
+📊 Coverage: >85%
+🔥 Feature: Allure Reports
+```
+![Progress](https://progress-bar.dev/95/?scale=100&title=Complete&width=200&color=00ff87)
+
+</td>
+<td align="left" width="33%">
+
+### 🔥 THE TEST FORGE  
+**Cypress Power Framework**
+```
+🎯 Target: E-commerce Testing
+⚡ Tech: Cypress + POM + DDT
+📈 Improvement: 30% faster
+🤖 CI/CD: GitHub Actions
+```
+![Progress](https://progress-bar.dev/92/?scale=100&title=Complete&width=200&color=ff6b9d)
+
+</td>
+<td align="center" width="33%">
+
+### 🕵️ EXCEPTION HUNTERS
+**BDD Test Suite**
+```
+🎯 Target: Complex User Flows  
+⚡ Tech: Selenium + Cucumber
+🌐 Browsers: Chrome + Firefox
+📋 Style: Behavior Driven
+```
+![Progress](https://progress-bar.dev/88/?scale=100&title=Complete&width=200&color=60efff)
+
+</td>
+</tr>
+</table>
 
 </div>
 
-```mermaid
-graph TD
-    A[🎯 Test Strategy] --> B[🔧 Framework Design]
-    B --> C[⚡ Automation Implementation]
-    C --> D[📊 CI/CD Integration]
-    D --> E[📈 Quality Metrics]
-    E --> F[🚀 Continuous Improvement]
-    
-    style A fill:#ff6b6b,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#45b7d1,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#96ceb4,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#feca57,stroke:#333,stroke-width:2px,color:#fff
-    style F fill:#ff9ff3,stroke:#333,stroke-width:2px,color:#fff
-```
-
 ---
 
-## :bar_chart: GitHub Statistics
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nzjahngere&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzjahngere&layout=compact&theme=radical"/>
-</p>
+<div align="left">
 
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nzjahngere&theme=radical"/>
-  <img height="180em" src="https://github-readme-calendar.vercel.app/api?username=nzjahngere&theme=github-dark"/>
-</p>
+## 📊 QUANTUM METRICS DASHBOARD
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=nzjahngere&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff87&text_color=ffffff&icon_color=ff6b9d&border_color=30363d&border_radius=10"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzjahngere&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff87&text_color=ffffff&border_color=30363d&border_radius=10"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nzjahngere&theme=chartreuse-dark&background=0d1117&ring=00ff87&fire=ff6b9d&currStreakLabel=60efff&border=30363d)
+
+</div>
 
 ---
 
