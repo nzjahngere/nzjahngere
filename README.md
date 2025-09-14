@@ -178,13 +178,16 @@ flowchart TD
 
 ---
 
-<div align="left">
-
 ## 📊 QUANTUM METRICS DASHBOARD
+
+<div align="left">
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nzjahngere&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff87&text_color=ffffff&icon_color=ff6b9d&border_color=30363d&border_radius=10"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzjahngere&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff87&text_color=ffffff&border_color=30363d&border_radius=10"/>
+</div>
 
+
+<div align="left">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nzjahngere&theme=chartreuse-dark&background=0d1117&ring=00ff87&fire=ff6b9d&currStreakLabel=60efff&border=30363d)
 
 </div>
