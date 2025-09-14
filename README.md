@@ -158,7 +158,7 @@ flowchart TD
 ![Progress](https://progress-bar.dev/92/?scale=100&title=Complete&width=200&color=ff6b9d)
 
 </td>
-<td align="center" width="33%">
+<td align="left" width="33%">
 
 ### 🕵️ EXCEPTION HUNTERS
 **BDD Test Suite**
@@ -221,6 +221,9 @@ Learning            ████░░░░░░░░░░░░░░░░
   </a>
 </p>
 
+**⏱️ RESPONSE TIME: < 24 HOURS**  
+**🎯 SUCCESS RATE: 100%**
+
 ---
 
 ## :thought_balloon: Testing Philosophy
@@ -239,3 +242,5 @@ I believe in **shift-left testing**, **continuous integration**, and building **
 </div>
 
 <sub>Built with ❤️ by Nazish Jehangir</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:60efff&height=100&section=footer"/>
+
