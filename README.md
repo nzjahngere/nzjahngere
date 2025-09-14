@@ -94,7 +94,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzjahngere&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=nzjahngere&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?username=nzjahngere&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 ---
