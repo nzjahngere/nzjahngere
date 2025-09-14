@@ -12,7 +12,7 @@
 ---
 
 <!-- QUICK LINKS -->
-<p align="center">
+<p align="left">
   <a href="https://nazishjehangirportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?logo=netlify" alt="Portfolio"/>
   </a>
@@ -72,7 +72,7 @@
 
 ### ⚙️ Development Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
@@ -88,8 +88,6 @@
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven" />
 </p>
 
----
-
 ### Testing Specializations
 - :link: **API Testing**: REST, GraphQL, SOAP services
 - :desktop_computer: **UI Automation**: Cross-browser, responsive testing
@@ -101,7 +99,7 @@
 
 ## 🏗️ Featured Projects
 
-<div align="center">
+<div align="left">
 
 | 🛡️ **The Sentinel Stack** | 🔥 **The Test Forge** | 🕵️ **The Exception Hunters** |
 |:-------------------------:|:---------------------:|:-----------------------------:|
@@ -130,12 +128,12 @@ graph TD
 ---
 
 ## :bar_chart: GitHub Statistics
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nzjahngere&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nzjahngere&layout=compact&theme=radical"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nzjahngere&theme=radical"/>
   <img height="180em" src="https://github-readme-calendar.vercel.app/api?username=nzjahngere&theme=github-dark"/>
 </p>
@@ -158,7 +156,7 @@ Learning            ████░░░░░░░░░░░░░░░░
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/jehnazish/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-NazishJehangir-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
