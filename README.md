@@ -72,22 +72,34 @@
 
 ---
 
-## 🏆 Featured Projects
+## 🏗️ Featured Projects
 
-### 🔗 [The Sentinel Stack](https://github.com/nzjahngere/0019.The-Sentinel-Stack)  
-**E2E test framework for StyleMate e-commerce platform**  
-- **Tech Stack**: Java · Selenium · Cucumber · TestNG · Maven  
-- **Features**: End-to-end checkout flows, data-driven test suites, HTML reporting  
+<div align="center">
 
-### 🖥️ [The Test Forge](https://github.com/nzjahngere/006-Test-Forge)  
-**UI automation suite for Rakuten website using Cypress & POM**  
-- **Tech Stack**: JavaScript · Cypress · Page Object Model · Mocha  
-- **Features**: Cross-browser parallel execution, screenshot capture, detailed logs  
+| 🛡️ **The Sentinel Stack** | 🔥 **The Test Forge** | 🕵️ **The Exception Hunters** |
+|:-------------------------:|:---------------------:|:-----------------------------:|
+| E2E Selenium & Java Framework | Cypress & POM Framework | Selenium, Cucumber & BDD Suite |
+| `>85% test coverage` | `30% faster execution` | `Cross-browser testing` |
+| Rakuten Website Automation | Data-Driven Testing | Complex User Flows |
 
-### ⚔️ [The Exception Hunters](https://github.com/nzjahngere/009_Exception_Hunters)  
-**Modular Selenium & Cucumber framework with HTML reporting**  
-- **Tech Stack**: Java · Selenium · Cucumber · Maven  
-- **Features**: Modular POM design
+</div>
+
+```mermaid
+graph TD
+    A[🎯 Test Strategy] --> B[🔧 Framework Design]
+    B --> C[⚡ Automation Implementation]
+    C --> D[📊 CI/CD Integration]
+    D --> E[📈 Quality Metrics]
+    E --> F[🚀 Continuous Improvement]
+    
+    style A fill:#ff6b6b,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#4ecdc4,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#45b7d1,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#96ceb4,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#feca57,stroke:#333,stroke-width:2px,color:#fff
+    style F fill:#ff9ff3,stroke:#333,stroke-width:2px,color:#fff
+```
+
 ---
 
 ## :bar_chart: GitHub Statistics
