@@ -36,9 +36,10 @@
 
 ---
 
-<div align="left">
 ## 🛠️ Tech Arsenal
-  ### 🧪 Testing & QA Frameworks
+
+### 🧪 Testing & QA Frameworks
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium" />
   <img width="12" />
@@ -54,8 +55,10 @@
   <img width="12" />
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="40" alt="jmeter" />
 </p>
+
 ### 💻 Programming Languages
-<p align="center">
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
@@ -66,7 +69,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql" />
 </p>
+
 ### ⚙️ Development Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
   <img width="12" />
@@ -82,8 +87,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven" />
 </p>
-</div>
-<div align="center">
+
 ---
 
 ### Testing Specializations
