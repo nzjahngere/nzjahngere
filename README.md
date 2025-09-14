@@ -36,10 +36,10 @@
 
 ---
 
-<div align="center">
-🛠️ Tech Arsenal
-🧪 Testing & QA Frameworks
-<p align="center">
+<div align="left">
+## 🛠️ Tech Arsenal
+  ### 🧪 Testing & QA Frameworks
+<p align="left">
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="40" alt="cypress" />
@@ -52,11 +52,9 @@
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" height="40" alt="rest assured" />
   <img width="12" />
-  <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" height="40" alt="burpsuite" />
-  <img width="12" />
   <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="40" alt="jmeter" />
 </p>
-💻 Programming Languages
+### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
   <img width="12" />
@@ -68,7 +66,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql" />
 </p>
-⚙️ Development Tools
+### ⚙️ Development Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
   <img width="12" />
@@ -86,6 +84,7 @@
 </p>
 </div>
 <div align="center">
+---
 
 ### Testing Specializations
 - :link: **API Testing**: REST, GraphQL, SOAP services
