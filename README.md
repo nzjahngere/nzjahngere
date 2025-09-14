@@ -1,5 +1,8 @@
 <!-- HERO & ABOUT ME -->
 # Hi there! 👋 I’m **Nazish Jehangir**  
+### `< QA ENGINEER />` • `TEST AUTOMATION ARCHITECT` • `QUALITY GUARDIAN`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:60efff&height=100&section=header&text=&fontSize=80&fontAlignY=40&desc=&descAlignY=50&descAlign=62" width="100%"/>
 <div align="left">
   <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=Software+Development+Engineer+in+Test;QA+Engineer;Web+Engineer;Full+Stack+Developer;Songwriter;Continuous+Learner" />
