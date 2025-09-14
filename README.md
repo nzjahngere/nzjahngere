@@ -36,32 +36,56 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
-
-### 🖥️ Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge)
-
-### 🧪 Automation & Testing
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?logo=testng&logoColor=white&style=for-the-badge)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-1E2021?logo=portswigger&logoColor=white&style=for-the-badge)
-![Rest_Assured](https://img.shields.io/badge/Rest_Assured-4CAF50?logo=rest-assured&logoColor=white&style=for-the-badge)
-
-### 🧰 Frameworks & Libraries
-![Cucumber](https://img.shields.io/badge/Cucumber-7BA829?logo=cucumber&logoColor=white&style=for-the-badge)
-![POM](https://img.shields.io/badge/Page_Object_Model-333333?logo=github&logoColor=white&style=for-the-badge)
-
-### ⚙️ CI/CD & Build
-![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+<div align="center">
+🛠️ Tech Arsenal
+🧪 Testing & QA Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="40" alt="cypress" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="40" alt="testng" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" height="40" alt="rest assured" />
+  <img width="12" />
+  <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" height="40" alt="burpsuite" />
+  <img width="12" />
+  <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="40" alt="jmeter" />
+</p>
+💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql" />
+</p>
+⚙️ Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellij" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="spring tool suite" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="maven" />
+</p>
+</div>
+<div align="center">
 
 ### Testing Specializations
 - :link: **API Testing**: REST, GraphQL, SOAP services
