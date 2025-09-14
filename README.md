@@ -154,6 +154,7 @@ I believe in **shift-left testing**, **continuous integration**, and building **
 - :arrows_counterclockwise: **Continuous Improvement**: Regular framework optimization
 - :handshake: **Collaboration**: Close partnership with development teams
 - :books: **Knowledge Sharing**: Mentoring and documentation
+> Code is poetry written in logic ~Nazish J.
 ---
 
 <div>
