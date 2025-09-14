@@ -28,6 +28,35 @@
 
 ---
 
+<div align="center">
+
+## 🔥 NEURAL NETWORK ARCHITECTURE
+
+```mermaid
+flowchart TD
+    A["🧠 MIND"] --> B["💡 CREATIVITY"]
+    A --> C["🔬 TESTING"]
+    A --> D["⚡ AUTOMATION"]
+    
+    B --> E["🎨 UI/UX Testing"]
+    C --> F["🛡️ Security Testing"] 
+    D --> G["🚀 CI/CD Integration"]
+    
+    E --> H["✨ QUALITY"]
+    F --> H
+    G --> H
+    
+    H --> I["🏆 EXCELLENCE"]
+    
+    style A fill:#00ff87,stroke:#000,stroke-width:3px,color:#000
+    style H fill:#ff6b9d,stroke:#000,stroke-width:3px,color:#000
+    style I fill:#60efff,stroke:#000,stroke-width:3px,color:#000
+```
+
+</div>
+
+---
+
 ## 🚀 Profile & Certifications
 - 📍 Rajasthan, India  
 - 🏫 **Masai School**, SDET (09/2024–08/2025)  
