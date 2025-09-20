@@ -1,6 +1,6 @@
 <!-- HERO & ABOUT ME -->
 # Hi there! 👋 I’m **Nazish Jehangir**  
-### `< QA ENGINEER />` • `TEST AUTOMATION ARCHITECT` • `QUALITY GUARDIAN`
+### `< Software Development Engineer in Test />` • `TEST AUTOMATION ARCHITECT` • `QUALITY GUARDIAN`
 
   <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&width=600&lines=Software+Development+Engineer+in+Test;QA+Engineer;Web+Engineer;Full+Stack+Developer;Songwriter;Continuous+Learner" />
