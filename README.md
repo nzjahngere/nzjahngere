@@ -60,7 +60,7 @@ flowchart TD
 ## 🚀 Profile & Certifications
 - 📍 Rajasthan, India  
 - 🏫 **Masai School**, SDET (09/2024–08/2025)  
-- 🎓 12th Grade Graduate, Govt Girls Sr Sec School (07/2022–03/2023)  
+- 🎓 High School Diploma  
 - 🏅 Certificates: Cypress & Selenium Project Week Completion, Hackathon Participant  
 
 ---
