@@ -13,7 +13,7 @@
 
 <!-- QUICK LINKS -->
 <p align="left">
-  <a href="https://nazishjehangirportfolio.netlify.app/" target="_blank">
+  <a href="https://njprtfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?logo=netlify" alt="Portfolio"/>
   </a>
   &nbsp;
